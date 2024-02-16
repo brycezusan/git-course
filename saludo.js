@@ -1,8 +1,8 @@
 //funcion de saludo
-const nombre = 'Cesar'
-const apellido ='Zubilete'
+const nombres = 'Cesar Briam'
+const apellidos ='Zubilete Sánchez'
 
 
-const saludo = `Hola ${nombre} ${apellido} como andás?`
+const saludo = `Hola ${nombres} ${apellidos} como andás?`
 
 console.log(saludo)
